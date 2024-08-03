@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66ad7f36b3e4555f20228fc0"
+  },
+  "userId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "targetId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e77"
+  },
+  "targetType": "post"
+}]

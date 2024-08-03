@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66ad7f70b3e4555f20228fc4"
+  },
+  "userId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "type": "recordatorio",
+  "content": "Recuerda entregar el informe de laboratorio mañana",
+  "createdAt": {
+    "$date": "2024-08-03T00:53:04.044Z"
+  },
+  "read": false
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66ad7f13b3e4555f20228fbd"
+  },
+  "userId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "url": "https://universidad.edu/proyectos/maria_garcia_001.jpg",
+  "description": "Diagrama de clases del proyecto",
+  "albumId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e75"
+  }
+}]

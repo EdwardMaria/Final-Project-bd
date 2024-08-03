@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66ad7ebbb3e4555f20228fbb"
+  },
+  "userId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "fullName": "María García",
+  "bio": "Estudiante de Ingeniería Informática, apasionada por la IA",
+  "dateOfBirth": {
+    "$date": "2002-05-15T00:00:00.000Z"
+  }
+}]

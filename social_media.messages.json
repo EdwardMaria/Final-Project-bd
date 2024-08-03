@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66ad7f5bb3e4555f20228fc3"
+  },
+  "conversationId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e81"
+  },
+  "senderId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "content": "Hola, ¿tienes los apuntes de la clase de ayer?",
+  "createdAt": {
+    "$date": "2024-08-03T00:52:43.652Z"
+  }
+}]

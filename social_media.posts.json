@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66ad7f22b3e4555f20228fbe"
+  },
+  "userId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "content": "¡Acabo de terminar mi proyecto final de Bases de Datos! 🎉💻",
+  "createdAt": {
+    "$date": "2024-08-03T00:51:46.098Z"
+  }
+}]

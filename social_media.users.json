@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e6f"
+  },
+  "username": "maria_garcia",
+  "email": "maria.garcia@universidad.edu",
+  "password": "contraseña_encriptada_123"
+},
+{
+  "_id": {
+    "$oid": "66ad7d02b3e4555f20228fb5"
+  },
+  "username": "maria_garcia",
+  "email": "maria.garcia@universidad.edu",
+  "password": "contraseña_encriptada_123"
+},
+{
+  "_id": {
+    "$oid": "66ad7deab3e4555f20228fb6"
+  },
+  "username": "maria_garcia",
+  "email": "maria.garcia@universidad.edu",
+  "password": "contraseña_encriptada_123"
+}]

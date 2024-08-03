@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "66ad7f2eb3e4555f20228fbf"
+  },
+  "postId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e77"
+  },
+  "imageId": {
+    "$oid": "5f8a7b2b9d3e2a1b3c4d5e76"
+  }
+}]
